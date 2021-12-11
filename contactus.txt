@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Contact us </title>
+</head>
+<body>
+<p align="center"><i>For booking inquiries or collaborations please contact us through:
+<br>charlizechaim.gadon@gmail.com
+<br>luminous_style@gmail.com
+</i></p>
+</body>
+</html>

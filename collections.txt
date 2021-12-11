@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>collections</title>
+</head>
+
+<body>
+	<center>
+		<img src="winter8.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="winter2.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="winter3.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="winter4.jpg" width= "500" length= "500"/>
+		<br>
+		<img src="winter6.jpg" width= "500" length= "500"/>
+		<br>
+		
+
+	</center>
+	<br>
+	<br>
+	<a href="realwebsite.html"><center><img src="luminous2.png" width= "200" length= "200"/></center><center>HOME</center></a>
+</body>
+</html>

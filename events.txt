@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> events </title>
+</head>
+<body>
+<p align="center"><i><b>We are very excited to show you our limited edition luminous clothing. 
+<br>We will release some new styles and we’ll make sure that you’ll love it!</i></b></p>
+</body>
+</html>
